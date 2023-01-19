@@ -21,6 +21,7 @@ class Negotiator():
         print("------------------------------------------------------------------------------")
         time.sleep(0.5)
         print("❤️_donate here_❤️")
+        print("UPI")
         print("a3ro.xyz.viz@idfcbank")
     
     @staticmethod
