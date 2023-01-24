@@ -30,8 +30,10 @@ Enter the price at what you expect the seller to give you apple at:
 500
 Negotiated amount is 3000.0
 
-    Note:
-        The formula in the code is a simple calculation but may not be applicable in all situations as it doesn't take into account specific details of the negotiation. Negotiations are complex and require a thorough understanding of the market, item, and parties involved. It's important to use negotiation techniques and consider other factors to reach a mutually beneficial agreement.
+     Note:
+        The formula in the code is a simple calculation but may not be applicable in all situations as it doesn't take into account specific details of the          negotiation.
+        Negotiations are complex and require a thorough understanding of the market, item, and parties involved.
+        It's important to use negotiation techniques and consider other factors to reach a mutually beneficial agreement.
 
 
 
