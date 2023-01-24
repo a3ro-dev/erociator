@@ -1,16 +1,18 @@
+# Erociator 
 
-# Erociator
+This program is a prototype of how a negotiation program would work. It takes in the initial price offered by the seller and the expected price by the buyer, and calculates a negotiated price based on that.
 
-Negotiator In Python
+## Getting Started
+
+To run the program, you will need to have Python 3.x installed on your machine. Simply run the `erociator.py` file and the program will start.
+
+The program will ask for the name of the article, the price offered by the seller, and the expected price by the buyer. Once the user inputs these values, the program will calculate the negotiated price and display it to the user.
+
+## Note
+
+The negotiated price is not final and the user should negotiate further if possible.
 
 
-## Deployment
-
-To deploy this project run
-
-```bash
-  python3 erociator.py
-```
 
 ```bash
 Negotiator
