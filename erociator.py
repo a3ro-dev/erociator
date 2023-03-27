@@ -22,7 +22,7 @@ class Negotiator():
         time.sleep(0.5)
         print("❤️_donate here_❤️")
         print("UPI")
-        print("a3ro.xyz.viz@idfcbank")
+        print("7376549282@fam")
     
     @staticmethod
     def negotiation( price, expectation):
